@@ -7,13 +7,13 @@
     background: url("../img/hero.webp") center / cover;
 }
 
-.hero_btn{
+.hero_btn {
     width: 300px;
     height: 50px;
-    background: #10126b;
-    border: 2px solid #25d9ed;
+    background: #0B0E66;
+    border: 2px solid #26C7EA;
     border-radius: 100px 0 100px 0;
-    color: #25d9ed;
+    color: #26C7EA;
     font-size: 20px;
     font-weight: 400;
     font-family: sans-serif;
@@ -23,23 +23,23 @@
     transition: 0.3s;
 }
 
-.hero_text_ukr{
+.hero_text_ukr {
     margin-bottom: 20px;
 }
 
-.hero_content{
+.hero_content {
     width: 300px;
     font-size: 18px;
     color: white;
 }
 
-.hero_socials{
+.hero_socials {
     display: flex;
     flex-direction: column;
     gap: 10px;
     margin-left: 800px;
 }
 
-.hero_text_img{
+.hero_text_img {
     margin-left: 60px;
 }
